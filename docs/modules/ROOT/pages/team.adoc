@@ -10,7 +10,7 @@
 * link:https://hub.jmonkeyengine.org/u/sgold/summary[sGold] - Stephen Gold - Joined Jun 8, 2013
 * link:https://hub.jmonkeyengine.org/u/riccardoblb/summary[Riccardo] - Riccardo Balbo - Joined Feb 17, 2014
 
-== Maintainers
+== Maintainer
 * link:https://hub.jmonkeyengine.org/u/yarnmcdonuts/summary[yaRnMcDonuts] - Ryan McDonough - Joined Jan 29, 2017
 * link:https://hub.jmonkeyengine.org/u/richtea/summary[richtea] - Richard Tingle - Joined Jun 9, 2012
 
