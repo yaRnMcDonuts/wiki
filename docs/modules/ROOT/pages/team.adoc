@@ -17,7 +17,7 @@
 == Social Media Manager
 * link:https://hub.jmonkeyengine.org/u/yarnmcdonuts/summary[yaRnMcDonuts] - Ryan McDonough - Joined Jan 29, 2017
 
-=
+____
 
 == Engine Leader [Retired]
 
