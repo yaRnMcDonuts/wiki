@@ -3,6 +3,7 @@
 :revdate: 2020/07/25
 :keywords: contact, jmonkeyengine, team
 
+=== Active Team:
 
 == Engine Leader
 
@@ -15,6 +16,8 @@
 * link:https://hub.jmonkeyengine.org/u/richtea/summary[richtea] - Richard Tingle - Joined Jun 9, 2012
 * link:https://hub.jmonkeyengine.org/u/codex/summary[codex] - Gary - Joined Jan 10, 2021
 
+
+=== Retired Members:
 == Engine Leader [Retired]
 
 * [iwgeric] - Joined Aug 14, 2011
