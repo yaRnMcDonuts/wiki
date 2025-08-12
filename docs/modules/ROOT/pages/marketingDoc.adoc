@@ -8,39 +8,42 @@ WIP Marketing Doc
 There are currently two ways to opt into having your game or projects featured on JME's official pages:
 
 
-Opt-in to the Marketing Rotation:
-First, each jme user/studio can submit a specific project to be listed in the JME Marketing Rotation, and these projects will be routinely posted in as fair as possible of a rotation.  
+=== Opt-in to the Marketing Rotation:
+Each jme user/studio can submit a specific project to be listed in the JME Marketing Rotation, and these projects will be routinely posted in as fair as possible of a rotation.  
+
 To get your project posted about more, you should provide some links to existing websites or pages for your project(s) so that the current JME Marketing Manager has sources from which to pull 
 the best images and videos possible.
+
 If a project has already been posted about a lot and reaches a point where new media is not being provided or cannot be easily found, then reposts of existing media will recieve lower priority.
 
-The current rotation can be found here:
+The current rotation can be found here: https://docs.google.com/spreadsheets/d/19ib-riULtnyA7_-heG-rHTKv9L0QF7DOKvgbua9aMpI/edit?usp=sharing
 
 And you can opt-in by posting to the Monthly Marketing Thread with the following information:
 
-====
 
-Project Name:
+* Project Name
+* Where To Link to
+* Best place{s) to find Media
+* End date (optional)
 
-Where To Link to:
+===== Example:
+___
 
-Best place{s) to find Media:
+*Project Name*: The Afflicted Forests
 
-Extra Notes:
+*Where To Link to*: TheAfflictedForests.com
 
-====
+*Extra places to find Media*: indiedb, twitter, youtube
 
-Example:
+*Extra Notes*: coming soon to steam; currently in closed beta; can contact developer for beta keys
 
-====
+___
 
-Project Name: The Afflicted Forests
-Where To Link to: TheAfflictedForests.com
-Extra places to find Media: indiedb, twitter, youtube
-Extra Notes: coming soon to steam; currently in closed beta; can contact developer for beta keys
+NOTE: If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
 
-====
-Unique Marketing Requests:
+
+==== Unique Marketing Requests:
 You may also submit a request to the monthly Marketing Thread providing a currated post with some corresponding images or videos that you want posted. 
+
 The Marketing Manager still reserves the right to make some edits or deny requests alotgether. Too many requests from the same user/studio in a short span of time may also result in lower priority,
 however this will largely depend on how many other projects are currently making requests. 
