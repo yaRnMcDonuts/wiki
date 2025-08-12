@@ -8,7 +8,7 @@ WIP Marketing Doc
 There are currently two ways to opt into having your game or projects featured on JME's official pages:
 
 
-=== Opt-in to the Marketing Rotation:
+== Opt-in to the Marketing Rotation:
 Each jme user/studio can submit a specific project to be listed in the JME Marketing Rotation, and these projects will be routinely posted in as fair as possible of a rotation.  
 
 To get your project posted about more, you should provide some links to existing websites or pages for your project(s) so that the current JME Marketing Manager has sources from which to pull 
@@ -26,8 +26,9 @@ And you can opt-in by posting to the Monthly Marketing Thread with the following
 * Best place{s) to find Media
 * End date (optional)
 
-===== Example:
 ___
+====== Example:
+
 
 *Project Name*: The Afflicted Forests
 
@@ -42,7 +43,7 @@ ___
 NOTE: If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
 
 
-==== Unique Marketing Requests:
+== Unique Marketing Requests:
 You may also submit a request to the monthly Marketing Thread providing a currated post with some corresponding images or videos that you want posted. 
 
 The Marketing Manager still reserves the right to make some edits or deny requests alotgether. Too many requests from the same user/studio in a short span of time may also result in lower priority,
