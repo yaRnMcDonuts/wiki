@@ -16,8 +16,7 @@
 == SDK Maintainer
 * link:https://hub.jmonkeyengine.org/u/tonihele/summary[tonihele] - Toni Helenius - Joined Jul 12, 2013
 * link:https://hub.jmonkeyengine.org/u/rickard/summary[rickard] - Rickard - Joined Aug 31, 2009
-* link:https://hub.jmonkeyengine.org/u/darkchaos/summary[Darkchaos] - Darkchaos- Joined Dec 16, 2014
-* link:https://hub.jmonkeyengine.org/u/grizeldi/summary[grizeldi] - grizeldi - May 23, 2014
+* link:https://hub.jmonkeyengine.org/u/darkchaos/summary[Darkchaos] - Darkchaos - Joined Dec 16, 2014
 
 == Social Media Manager
 * link:https://hub.jmonkeyengine.org/u/yarnmcdonuts/summary[yaRnMcDonuts] - Ryan McDonough - Joined Jan 29, 2017
@@ -37,6 +36,10 @@ ___
 == Maintainer [Retired]
 * link:https://hub.jmonkeyengine.org/u/ali_rs/summary[Ali_RS] - Ali - Joined Aug 30, 2015
 * link:https://hub.jmonkeyengine.org/u/adi.barda/summary[adi.barba] - Adi Barda - Joined Jan 23, 2017
+
+== SDK Maintainer [Retired]
+* link:https://hub.jmonkeyengine.org/u/normen/summary[normen] - Normen Hansen - Joined Oct 16, 2008
+* link:https://hub.jmonkeyengine.org/u/grizeldi/summary[grizeldi] - grizeldi - May 23, 2014
 
 == Website [Retired]
 
