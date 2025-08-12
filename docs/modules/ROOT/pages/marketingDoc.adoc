@@ -7,6 +7,9 @@ WIP Marketing Doc
 
 There are currently two ways to opt into having your game or projects featured on JME's official pages:
 
+* Opting in to the Marketing Rotation
+* Making Unique Marketing Requests
+
 
 == Opt-in to the Marketing Rotation:
 Each jme user/studio can submit a specific project to be listed in the JME Marketing Rotation, and these projects will be routinely posted in as fair as possible of a rotation.  
@@ -26,7 +29,6 @@ And you can opt-in by posting to the Monthly Marketing Thread with the following
 * Best place{s) to find Media
 * End date (optional)
 
-___
 ====== Example:
 
 
@@ -38,7 +40,6 @@ ___
 
 *Extra Notes*: coming soon to steam; currently in closed beta; can contact developer for beta keys
 
-___
 
 NOTE: If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
 
