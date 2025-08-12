@@ -18,20 +18,28 @@ The current rotation can be found here:
 
 And you can opt-in by posting to the Monthly Marketing Thread with the following information:
 
+====
+
 Project Name:
 
-Where To Link to: 
+Where To Link to:
 
 Best place{s) to find Media:
 
 Extra Notes:
 
+====
+
 Example:
+
+====
+
 Project Name: The Afflicted Forests
 Where To Link to: TheAfflictedForests.com
 Extra places to find Media: indiedb, twitter, youtube
 Extra Notes: coming soon to steam; currently in closed beta; can contact developer for beta keys
 
+====
 Unique Marketing Requests:
 You may also submit a request to the monthly Marketing Thread providing a currated post with some corresponding images or videos that you want posted. 
 The Marketing Manager still reserves the right to make some edits or deny requests alotgether. Too many requests from the same user/studio in a short span of time may also result in lower priority,
