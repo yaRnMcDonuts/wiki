@@ -14,7 +14,7 @@
 * link:https://hub.jmonkeyengine.org/u/richtea/summary[richtea] - Richard Tingle - Joined Jun 9, 2012
 * link:https://hub.jmonkeyengine.org/u/codex/summary[codex] - Gary - Joined Jan 10, 2021
 
-== SDK Maintainer
+== SDK Team
 * link:https://hub.jmonkeyengine.org/u/tonihele/summary[tonihele] - Toni Helenius - Joined Jul 12, 2013
 * link:https://hub.jmonkeyengine.org/u/rickard/summary[rickard] - Rickard - Joined Aug 31, 2009
 * link:https://hub.jmonkeyengine.org/u/darkchaos/summary[Darkchaos] - Darkchaos- Joined Dec 16, 2014
