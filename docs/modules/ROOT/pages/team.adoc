@@ -4,7 +4,6 @@
 :keywords: contact, jmonkeyengine, team
 
 == Engine Leader
-
 * link:https://hub.jmonkeyengine.org/u/pspeed/summary[pspeed] - Paul Speed - Joined Jan 9, 2006
 * link:https://hub.jmonkeyengine.org/u/sgold/summary[sGold] - Stephen Gold - Joined Jun 8, 2013
 * link:https://hub.jmonkeyengine.org/u/riccardoblb/summary[Riccardo] - Riccardo Balbo - Joined Feb 17, 2014
