@@ -43,7 +43,7 @@ ___
 
 * link:https://hub.jmonkeyengine.org/u/jayfella/summary[jayfella] - James Khan - Joined Sep 15, 2013
 
-== Documentation
+== Documentation [Retired]
 
 * link:https://hub.jmonkeyengine.org/u/mitm/summary[mitm] - Robert Allen - Joined Oct 13, 2016
 * link:https://hub.jmonkeyengine.org/u/ali_rs/summary[Ali_RS] - Ali - Joined Aug 30, 2015
