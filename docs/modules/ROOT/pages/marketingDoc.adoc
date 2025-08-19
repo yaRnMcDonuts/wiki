@@ -22,6 +22,7 @@ And you can opt-in by posting to the Monthly Marketing Thread with the following
 * Project Name
 * Where To Link to
 * Best place(s) to find Media
+* Extra Notes (optional)
 * End date (optional)
 
 ===== Submission Example:
@@ -30,11 +31,11 @@ And you can opt-in by posting to the Monthly Marketing Thread with the following
 
 **Where To Link to**: https://store.steampowered.com/app/972120/The_Afflicted_Forests
 
-**Extra places to find Media**: TheAfflictedForests.com, IndieDB, Twitter, YouTube
+**Best places to find Media**: TheAfflictedForests.com, IndieDB, Twitter, YouTube
 
 **Extra Notes**: Coming soon to Steam; currently in closed beta; can contact developer for beta keys
 
-NOTE: If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
+NOTE: If no end date is requested, then your project will be posted about as long as it remains active and continues to meet the requirements.
 
 
 
@@ -58,7 +59,7 @@ To get your project posted about more, you should provide some links to existing
 
 If a project has already been posted a lot and reaches a point where new media is not being provided or cannot be easily found, then reposts of existing media may receive significantly lower priority.
 
-Priority will also be given to users who frequently interact and engage with new posts on jME's social media pages, as this encourages beneficial behavior. Users participating in the marketing rotation are strongly encouraged to like, comment, share, etc., on posts about other jME users' projects.
+Priority will also be given to users who frequently interact and engage with new posts on jME's social media pages, as this encourages more of this beneficial behavior. Users participating in the marketing rotation are strongly encouraged to like, comment, share, etc., on posts about other jME users' projects.
 
 
 
@@ -84,10 +85,6 @@ copied and pasted to all of these locations. Some edits or minor changes may be 
 platforms such as LinkedIn prioritize speaking with professionalism whereas others like Twitter are more casual).
 
 Instagram and YouTube will be limited to posting polished trailers of jME games that have reached a major milestone, such as release or pre-order announcements. 
-
-Additional Notes Regarding Post Priority
-
-
 
 == Role of the Marketing Manager
 
