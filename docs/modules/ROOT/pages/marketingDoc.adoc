@@ -15,7 +15,7 @@ Each jME user/studio can submit a specific project to be listed in the JME Marke
 
 The current rotation can be found here: https://docs.google.com/spreadsheets/d/19ib-riULtnyA7_-heG-rHTKv9L0QF7DOKvgbua9aMpI/edit?usp=sharing
 
-And you can opt-in by posting to the Monthly Marketing Thread with the following information:
+And you can opt-in by posting to the jME Marketing Thread with the following information:
 
 
 * Project Name
@@ -39,7 +39,7 @@ NOTE: If no end date is requested, then your project will be posted about as lon
 
 
 === 2.) Unique Marketing Requests:
-You may also submit a request to the monthly Marketing Thread providing a curated post with some accompanying images or videos that you want posted. 
+You may also submit a request to the jME Marketing Thread providing a curated post with some accompanying images or videos that you want posted. 
 
 The Marketing Manager still reserves the right to make some edits or deny requests altogether. Submitting too many requests from the same user/studio in a short span of time may also result in lower priority,
 however this will largely depend on how many other projects are currently making requests. 
