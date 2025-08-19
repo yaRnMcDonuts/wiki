@@ -3,49 +3,95 @@
 :revdate: 2025/08/09
 :keywords: documentation, marketing, social, media
 
-WIP Marketing Doc
+jME Marketing Documentation
+There are currently two ways to have your games or projects featured on JME’s official pages:
 
-There are currently two ways to opt into having your game or projects featured on JME's official pages:
+Opting in to the Marketing Rotation
 
-* Opting in to the Marketing Rotation
-* Making Unique Marketing Requests
+Making Unique Marketing Requests
 
-
-== Opt-in to the Marketing Rotation:
-Each jme user/studio can submit a specific project to be listed in the JME Marketing Rotation, and these projects will be routinely posted in as fair as possible of a rotation.  
-
-To get your project posted about more, you should provide some links to existing websites or pages for your project(s) so that the current JME Marketing Manager has sources from which to pull 
-the best images and videos possible.
-
-If a project has already been posted about a lot and reaches a point where new media is not being provided or cannot be easily found, then reposts of existing media will recieve lower priority.
+1.) Opt-in to the Marketing Pool:
+Each jme user/studio can submit a specific project to be listed in the JME Marketing pool, and these projects will be routinely posted in as fair as possible of a rotation.
 
 The current rotation can be found here: https://docs.google.com/spreadsheets/d/19ib-riULtnyA7_-heG-rHTKv9L0QF7DOKvgbua9aMpI/edit?usp=sharing
 
 And you can opt-in by posting to the Monthly Marketing Thread with the following information:
 
+Project Name
 
-* Project Name
-* Where To Link to
-* Best place{s) to find Media
-* End date (optional)
+Where To Link to
 
-====== Example:
+Best place{s) to find Media
 
+End date (optional)
 
-*Project Name*: The Afflicted Forests
+Submission Example:
+Project Name: The Afflicted Forests
 
-*Where To Link to*: TheAfflictedForests.com
+Where To Link to: https://store.steampowered.com/app/972120/The_Afflicted_Forests
 
-*Extra places to find Media*: indiedb, twitter, youtube
+Extra places to find Media: TheAfflictedForests.com, indiedb, twitter, youtube
 
-*Extra Notes*: coming soon to steam; currently in closed beta; can contact developer for beta keys
+Extra Notes: coming soon to steam; currently in closed beta; can contact developer for beta keys
 
+Note
+If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
+2.) Unique Marketing Requests:
+You may also submit a request to the monthly Marketing Thread providing a currated post with some corresponding images or videos that you want posted.
 
-NOTE: If no end date is requested, then your project will be posted about indefinitely so long as it remains active and continues to meet the requirements.
+The Marketing Manager still reserves the right to make some edits or deny requests alotgether. Too many requests from the same user/studio in a short span of time may also result in lower priority, however this will largely depend on how many other projects are currently making requests.
 
+Priority
+There are a handful of factors that determine which projects will be prioritized and posted more frequently, including the following:
 
-== Unique Marketing Requests:
-You may also submit a request to the monthly Marketing Thread providing a currated post with some corresponding images or videos that you want posted. 
+Time since project was last posted
 
-The Marketing Manager still reserves the right to make some edits or deny requests alotgether. Too many requests from the same user/studio in a short span of time may also result in lower priority,
-however this will largely depend on how many other projects are currently making requests. 
+Flashiness, newness and overall quality of a project’s available media
+
+Completedness of a project (downloadable or purchasable projects recieve higher priority)
+
+How much the project’s developer interacts with other posts on jME’s social media pages
+
+To get your project posted about more, you should provide some links to existing websites or pages for your project so that the current JME Marketing Manager has sources from which to pull the best images and videos possible.
+
+If a project has already been posted a lot and reaches a point where new media is not being provided or cannot be easily found, then reposts of existing media may recieve significantly lower priority.
+
+Priority will also be given to users who frequently interact and engage with new posts on jME’s social media pages, as to encourage this beneficial behavior. Users participating in the marketing rotation are strongly encouraged like/comment/share/etc posts about other jME users' projects.
+
+Our Current Active Social Media Pages
+LinkedIn
+
+Bluskey
+
+Twitter/X
+
+Nostr
+
+YouTube
+
+Itch.IO (Working on getting jme listed as an official tool)
+
+Facebook (Wrking on recovering access to our unmoderated page)
+
+Instagram (Coming soon. Instagram is linked to facebook, so first we msut recover that)
+
+Reddit (Still need to obtain subreddit moderator privelages)
+
+Discord
+
+What is posted to each platform?
+The majority of posts will be made to Twitter, BlueSky, LinkedIn, Facebook, and Nostr. These platforms all have similar functionality and are receptive to the widest range of media, whether it be purely text based posts or images and videos. This allows the same post to be copy/pasted to all of these locations. Some edits or minor changes may be made depending on the platform (for example, some platforms have significantly lower character limits, and some platforms such as LinkedIn prioritize speaking with professionalism wheras others like twitter are more casual).
+
+Instagram and YouTube will be limited to posting polishesd trailors of jME games that have reached a major milestone, such as release or pre-order announcements.
+
+Additional Notes Regarding Post Priority
+
+Role of the Marketing Manager
+When choosing which projects to post, the Marketing Manager should always strive to be fair in their selections while also prioritizing posts that paint jME in the best light possible.
+
+The Marketing Manager should be receptive to reasonable criticisms or questioning from users that may feel disastisfied with the Marketing Manager’s decisions regarding which projects to prioritize. Likewise, jme users should be receptive to feedback and reasonable criticisms from the Marketing Manager when resolving any disputes that may arise. Any unresolvable disputes should be brought up on the jMonkey hub so that the community can share their opinions and make a democratic judgement in order to resolve the dispute.
+
+In the event that the Marketing Manage role is vacant, someone else is ecnouraged to volounteer to fill the role. Large gaps in posting are severely frowned upon by every social media platform, and even an occasional weekly or monthly post is better than nothing and requires very low effort.
+
+Login information for all of these platforms is linked to the engine’s official project email address, and any future Marketing Managers can obtain this information by contacting a past a Marketing Manager or Engine Leader.
+
