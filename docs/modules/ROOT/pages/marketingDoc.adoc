@@ -65,16 +65,16 @@ Priority will also be given to users who frequently interact and engage with new
 
 == Our Current Active Social Media Pages
 
-* LinkedIn
-* Bluesky
-* Twitter/X
-* Nostr
-* YouTube
-* Itch.IO (Working on getting jME listed as an official tool)
-* Facebook (Working on recovering access to our unmoderated page)
-* Instagram (Coming soon. Instagram is linked to Facebook, so first we must recover that)
-* Reddit (Still need to obtain subreddit moderator privileges)
-* Discord
+* https://www.linkedin.com/company/jmonkeyengine[LinkedIn]
+* https://bsky.app/profile/jmonkeyengine.bsky.social[Bluesky]
+* https://x.com/jmonkeyengine[Twitter/X]
+* https://yakihonne.com/profile/jmonkeyengine@jmonkeyengine.org[Nostr]
+* https://www.youtube.com/@JmonkeyengineOrg[YouTube]
+* https://discord.com/invite/jsNbqbh[Discord]
+* https://jmonkeyengine.itch.io[Itch.IO] (Working on getting jME listed as an official tool)
+* https://www.facebook.com/JMonkeyEngine[Facebook] (Working on recovering access to our unmoderated page)
+* [Instagram] (Coming soon. Instagram is linked to Facebook, so first we must recover that)
+* https://www.reddit.com/r/jMonkeyEngine[Reddit] (Still need to obtain subreddit moderator privileges)
 
 === What is posted to each platform?
 
