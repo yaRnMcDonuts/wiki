@@ -4,7 +4,7 @@
 :keywords: documentation, marketing, social, media 
 
 
-There are currently two ways to have your games or projects featured on JME's official pages:
+There are currently two ways to request to have your games or projects featured on JME's official pages:
 
 * Opting in to the Marketing Pool
 * Making Unique Marketing Requests
@@ -44,6 +44,9 @@ You may also submit a request to the jME Marketing Thread providing a curated po
 The Marketing Manager still reserves the right to make some edits or deny requests altogether. Submitting too many requests from the same user/studio in a short span of time may also result in lower priority,
 however this will largely depend on how many other projects are currently making requests. 
 
+== Content Posted on hub.jmonkeyengine.org
+
+Any media that users post on the official jME forums may be selected and used for marketing or promotional reasons. By sharing media on jME's website and forums, users implicitly agree to give the jME organization (and any authorized representatives) permission to use that media for marketing purposes, unless explicitly requests otherwise (contact the Marketing Manager to make this request). So if you post something particuarily cool in the monthly WIP thread, it may be reposted on jME's social media pages without you having to make any requests. However higher priority will be given to users and projects that make direct requests, so you should still make requests when you want to ensure that specific content is featured.
 
 == Priority
 
