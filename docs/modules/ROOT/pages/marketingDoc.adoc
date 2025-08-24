@@ -65,7 +65,7 @@ Any media that users post on the official jME forums may be selected and used fo
 * [Instagram] (Coming soon. Instagram is linked to Facebook, so first we must recover that)
 * https://www.reddit.com/r/jMonkeyEngine[Reddit] (Still need to obtain subreddit moderator privileges)
 
-TIP : Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too.
+TIP: Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too.
 
 === What is posted to each platform?
 
