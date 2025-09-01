@@ -48,9 +48,11 @@ however this will largely depend on how many other projects are currently making
 
 TIP: You should make Unique Marketing Requests whenever your project has reached a major milestone that warrants a timely announcement, such as a game that was just released or that has just had a major feature finished. The Marketing Manager may unintentionally overlook these things, so Unique Marketing Requests are the best way to ensure that something specific is put in the spotlight and not overlooked.
 
-== Content Posted on hub.jmonkeyengine.org
+== Content Posted in jME's Monthly WIP (Work in Progress) Threads
 
-Any media that users post on the official jME forums may be selected and used for marketing or promotional reasons. By sharing media on jME's website and forums, users implicitly agree to give the jME organization (and any authorized representatives) permission to use that media for marketing purposes, unless explicitly requests otherwise (contact the Marketing Manager to make this request). So if you post something particuarily cool in the monthly WIP thread, it may be reposted on jME's social media pages without you having to make any requests. However higher priority will be given to users and projects that make direct requests, so you should still make requests when you want to ensure that specific content is featured.
+Any media that users post to any Monthly WIP Thread on the official jME forums (hub.jmonkeyengine.org) may be have their media selected and used for marketing or promotional reasons, unless explicitly requests otherwise (contact the Marketing Manager to make this request). 
+
+So if you post something particuarily cool in the monthly WIP thread, it may be reposted on jME's social media pages without you having to make any requests. However higher priority will be given to users and projects that make direct requests, so you should still make requests when you want to ensure that your content is featured more often.
 
 == Our Current Active Social Media Pages
 
@@ -65,7 +67,10 @@ Any media that users post on the official jME forums may be selected and used fo
 * [Instagram] (Coming soon. Instagram is linked to Facebook, so first we must recover that)
 * https://www.reddit.com/r/jMonkeyEngine[Reddit] (Still need to obtain subreddit moderator privileges)
 
-TIP: Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too.
+Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too. By interacting with each others content, we can all mutually benefit and gain more reach from the algorithm and get more eyes on all of our projects. 
+
+image:marketing/marketingApes.jpg[marketingApes.jpg,width="",height=""]
+
 
 === What is posted to each platform?
 
