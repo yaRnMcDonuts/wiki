@@ -43,10 +43,9 @@ TIP: Be sure to provide links to as many media sources as possible for your proj
 === 2.) Unique Marketing Requests:
 You may also submit a request to the jME Marketing Thread providing a curated post with some accompanying images or videos that you want posted. 
 
-The Marketing Manager still reserves the right to make some edits or deny requests altogether. Submitting too many requests from the same user/studio in a short span of time may also result in lower priority,
-however this will largely depend on how many other projects are currently making requests. 
+The Marketing Manager still reserves the right to make some edits or deny requests altogether. Submitting too many requests from the same user/studio in the same month may also a longer wait time for the posts to be made, especially if many other projects are in the queue waiting to be posted. 
 
-TIP: You should make Unique Marketing Requests whenever your project has reached a major milestone that warrants a timely announcement, such as a game that was just released or that has just had a major feature finished. The Marketing Manager may unintentionally overlook these things, so Unique Marketing Requests are the best way to ensure that something specific is put in the spotlight and not overlooked.
+TIP: Users are encouraged to make Unique Marketing Requests whenever your project has reached a major milestone that warrants a timely announcement, such as a game that was just released or that has just had a major feature finished. The Marketing Manager may unintentionally overlook these things when routinely selecting content to post from projects that are in the Marketing Pool, so Unique Marketing Requests are the best way to ensure that something important is put in the spotlight and not overlooked.
 
 == Content Posted in jME's Monthly WIP (Work in Progress) Threads
 
@@ -67,7 +66,7 @@ So if you post something particuarily cool in the monthly WIP thread, it may be 
 * [Instagram] (Coming soon. Instagram is linked to Facebook, so first we must recover that)
 * https://www.reddit.com/r/jMonkeyEngine[Reddit] (Still need to obtain subreddit moderator privileges)
 
-Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too. By interacting with each others content, we can all mutually benefit and gain more reach from the algorithm and get more eyes on all of our projects. 
+Help us extend our reach by following and interacting with our pages; we will follow back and interact with your content too. By interacting with each other's content, we can all mutually benefit and gain more reach from the algorithm to get more eyes on our games and projects. 
 
 image:marketing/marketingApes.jpg[marketingApes.jpg,width="",height=""]
 
@@ -84,7 +83,7 @@ Instagram and YouTube will be limited to posting polished trailers of jME games 
 
 == Role of the Marketing Manager
 
-When choosing which projects to post, the Marketing Manager should always strive to be fair in their selections while also prioritizing posts that paint jME in the best light possible.
+When choosing which projects to post, the Marketing Manager should always strive to be fair in their selections while also prioritizing posts that paint jME in the best light possible. 
 
 The Marketing Manager should be receptive to reasonable criticisms or questioning from users that may feel dissatisfied with the
 Marketing Manager's decisions regarding which projects to prioritize. Likewise, jME users should be receptive to feedback and reasonable criticisms from the Marketing Manager when resolving any disputes that may arise. Any unresolvable disputes
