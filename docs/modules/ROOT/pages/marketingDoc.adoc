@@ -13,9 +13,9 @@ There are currently two ways to request to have your games or projects featured 
 === 1.) Opt-in to the Marketing Pool:
 Each jME user/studio can submit a specific project to be listed in the JME Marketing Pool, and these projects will be routinely posted in as fair of a rotation as possible.  
 
-The current rotation can be found here: https://docs.google.com/spreadsheets/d/19ib-riULtnyA7_-heG-rHTKv9L0QF7DOKvgbua9aMpI/edit?usp=sharing
+The current marketing pool can be found here: https://docs.google.com/spreadsheets/d/19ib-riULtnyA7_-heG-rHTKv9L0QF7DOKvgbua9aMpI/edit?usp=sharing
 
-And you can opt-in by posting to the jME Marketing Thread with the following information:
+And you can opt-in by posting to the jME Marketing Thread with the following information about your project:
 
 
 * Project Name
