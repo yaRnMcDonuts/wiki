@@ -49,7 +49,7 @@ TIP: Whenever your project hits a big milestone, like a game launch or a major n
 
 Any media that users post to any Monthly WIP Thread on the official jME forums (hub.jmonkeyengine.org) may be have their media selected and used for marketing or promotional reasons, unless explicitly requests otherwise (contact the Marketing Manager to make this request). 
 
-So if you post something particuarily cool in the monthly WIP thread, it may be reposted on jME's social media pages without you having to make any requests. However higher priority will be given to users and projects that make direct requests, so you should still make requests when you want to ensure that your content is featured more often.
+TIP: Higher priority is given to direct requests, so you should still make requests when you want to ensure that your content is featured more often.
 
 == Our Current Active Social Media Pages
 
