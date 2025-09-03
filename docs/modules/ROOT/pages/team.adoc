@@ -52,4 +52,4 @@ ___
 * link:https://hub.jmonkeyengine.org/u/ali_rs/summary[Ali_RS] - Ali - Joined Aug 30, 2015
 * link:https://hub.jmonkeyengine.org/u/8keep123/summary[8Keep123] - Davis Rollman - Jan 18, 2013
 
-+...+ and a big, everlasting thanks to link:https://github.com/jMonkeyEngine/jmonkeyengine/graphs/contributors[all our contributors]! The list of contributors is too long too keep track of, and frankly subjective. There’s certainly some cool monkeys out there who deserves more recognition, but we've done our best to mark the people you should mentally '`high five`' with a simple "`Contributor`" sticker. They shouldn't be too hard to find on the forum: Along with the developers, they’ll be the ones helping you out.
++...+ and a big, everlasting thanks to link:https://github.com/jMonkeyEngine/jmonkeyengine/graphs/contributors[all our contributors]!
