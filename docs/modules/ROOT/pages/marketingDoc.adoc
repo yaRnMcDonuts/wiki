@@ -48,7 +48,7 @@ TIP: Whenever your project hits a big milestone, like a game launch or a major n
 
 == Content Posted in jME's Monthly WIP (Work in Progress) Threads
 
-Any media that users post to any Monthly WIP Thread on the official jME forums (hub.jmonkeyengine.org) may be have their media selected and used for marketing or promotional reasons, unless explicitly requests otherwise (contact the Marketing Manager to make this request). 
+Any media posted by users in the Monthly WIP Threads on the official jME forum (hub.jmonkeyengine.org) may be shared on jME’s social media channels, unless users explicitly request otherwise by contacting the Marketing Manager or by writing `noshare` at the end of their post.
 
 TIP: Higher priority is given to direct requests, so you should still make requests when you want to ensure that your content is featured more often.
 
